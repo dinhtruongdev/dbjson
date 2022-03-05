@@ -3,60 +3,73 @@
       {
          "key":"QWx0ICsgMQ==",
          "text":"Hà ",
+         "color":"rgba(0, 147, 68, 0.4)",
          "shortCut":"Alt + 1",
-          "replace_key":"F1"
+         "replace_key":"F1"
       },
       {
          "key":"QWx0ICsgMg==",
          "text":"Trang",
+         "color":"rgba(233, 212, 27, 0.4)",
          "shortCut":"Alt + 2",
-          "replace_key":"F2"
+         "replace_key":"F2"
       },
       {
          "key":"QWx0ICsgMw==",
          "text":"Phúc",
+         "color":"rgb(223, 11, 15)",
          "shortCut":"Alt + 3",
-          "replace_key":"F3"
+         "replace_key":"F3"
       },
       {
          "key":"QWx0ICsgNA==",
          "text":"KH sỉ",
+         "color":"rgba(3, 8, 161, 0.4)",
          "shortCut":"Alt + 4",
-          "replace_key":"F4"
+         "replace_key":"F4"
       },
       {
          "key":"QWx0ICsgNQ==",
          "text":"Kiểm hàng",
+         "color":"rgb(201, 204, 214)",
          "shortCut":"Alt + 5",
-          "replace_key":"F5"
+         "replace_key":"F5"
       },
       {
          "key":"QWx0ICsgNg==",
          "text":"Câu hỏi",
+         "color":"rgb(217, 191, 226)",
          "shortCut":"Alt + 6",
-          "replace_key":"F6"
+         "replace_key":"F6"
       },
       {
          "key":"QWx0ICsgNw==",
          "text":"Mua hàng",
+         "color":"rgb(182, 205, 255)",
          "shortCut":"Alt + 7",
-          "replace_key":"F7"
+         "replace_key":"F7"
       },
       {
          "key":"QWx0ICsgOA==",
          "text":"Đã gửi",
+         "color":"rgb(178, 222, 198)",
          "shortCut":"Alt + 8",
          "replace_key":"F8"
       },
       {
          "key":"QWx0ICsgOQ==",
          "text":"Hết hàng",
+         "color":"rgb(195, 228, 251)",
          "shortCut":"Alt + 9",
          "replace_key":"F9"
       },
       {
          "key":"QWx0ICsgMTA=",
          "text":"Trả hàng",
+         "color":"rgb(235, 190, 190)",
+         "element":{
+
+         },
          "shortCut":"Alt + 0",
          "replace_key":"F10"
       }
