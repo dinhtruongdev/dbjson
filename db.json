@@ -3,56 +3,62 @@
       {
          "key":"QWx0ICsgMQ==",
          "text":"Hà ",
-         "shortCut":"Alt + 1"
+         "shortCut":"Alt + 1",
+          "replace_key":"F1"
       },
       {
          "key":"QWx0ICsgMg==",
          "text":"Trang",
-         "shortCut":"Alt + 2"
+         "shortCut":"Alt + 2",
+          "replace_key":"F2"
       },
       {
          "key":"QWx0ICsgMw==",
          "text":"Phúc",
-         "shortCut":"Alt + 3"
+         "shortCut":"Alt + 3",
+          "replace_key":"F3"
       },
       {
          "key":"QWx0ICsgNA==",
          "text":"KH sỉ",
-         "shortCut":"Alt + 4"
+         "shortCut":"Alt + 4",
+          "replace_key":"F4"
       },
       {
          "key":"QWx0ICsgNQ==",
          "text":"Kiểm hàng",
-         "shortCut":"Alt + 5"
+         "shortCut":"Alt + 5",
+          "replace_key":"F5"
       },
       {
          "key":"QWx0ICsgNg==",
          "text":"Câu hỏi",
-         "shortCut":"Alt + 6"
+         "shortCut":"Alt + 6",
+          "replace_key":"F6"
       },
       {
          "key":"QWx0ICsgNw==",
          "text":"Mua hàng",
-         "shortCut":"Alt + 7"
+         "shortCut":"Alt + 7",
+          "replace_key":"F7"
       },
       {
          "key":"QWx0ICsgOA==",
          "text":"Đã gửi",
-         "shortCut":"Alt + 8"
+         "shortCut":"Alt + 8",
+         "replace_key":"F8"
       },
       {
          "key":"QWx0ICsgOQ==",
          "text":"Hết hàng",
-         "shortCut":"Alt + 9"
+         "shortCut":"Alt + 9",
+         "replace_key":"F9"
       },
       {
          "key":"QWx0ICsgMTA=",
          "text":"Trả hàng",
-         "element":{
-            
-         },
          "shortCut":"Alt + 0",
-         "replace_key":"F3"
+         "replace_key":"F10"
       }
    ]
 }
